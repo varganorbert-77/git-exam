@@ -1,6 +1,1 @@
-Login feature started
-Temporary change
-
-Version 1
-Version 2
-
+Final feature
